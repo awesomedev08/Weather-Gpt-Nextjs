@@ -1,4 +1,4 @@
-<a href="https://github.com/steven-tey/weathergpt">
+<a href="https://github.com/awesomedev08/Weather-Gpt-Nextjs">
    <img src="https://weathergpt.vercel.app/opengraph-image.png" alt="OG Image">
 </a>
 
